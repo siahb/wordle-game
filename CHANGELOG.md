@@ -2,7 +2,7 @@
 
 [Public history](https://siahverse.cc/changelog/#wordle) · [GitHub history](https://github.com/siahb/wordle-game/commits/main/)
 
-Selected changes from GitHub commits, using the dates recorded in each source repository. These are code-history dates, not confirmed launch or deployment dates. Older work outside GitHub may not be recorded here.
+Selected changes from GitHub commits, using the dates recorded in each source repository. New entries use America/Los_Angeles dates. These are code-history dates, not confirmed launch or deployment dates. Older work outside GitHub may not be recorded here.
 
 ## 2026-10-02
 
